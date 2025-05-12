@@ -3,6 +3,10 @@ This was a project done at the Montreal Computational and Quantitative Linguisti
 Here is a link to the poster presentation:
 https://aaa.underline.io/lecture/27386-processing-differences-among-irregular-inflection-classes
 
+The project involved developing an online experiment using jsPsych. The webpage diplayed various stimuli and collected data on participants reaction times. This data was hosted on Google Firebase, and the data was analysed in R with the help of Mika Bradinsky at MIT. 
+
+This is not the original GitHub for this experiment, it is simply to document the workflow that was used, and to host some of the files that accompanies this workflow.
+
 CREATING THE EXPERIMENT
 I hosted the experiment on GitHub pages and stored participants' data on Google
 Firebase’s Realtime Database. This combination works well -- the GitHub desktop app makes
